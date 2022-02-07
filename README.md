@@ -8,7 +8,6 @@
 
 </span>
 
-⇑
 ### **C++ Land**
 
 </center>
